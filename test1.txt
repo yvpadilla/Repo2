@@ -1,0 +1,10 @@
+ El volumen de la unidad C es OS
+ El n£mero de serie del volumen es: 4C37-8577
+
+ Directorio de C:\Yuri\gitProjects
+
+23/03/2020  08:41    <DIR>          .
+23/03/2020  08:41    <DIR>          ..
+23/03/2020  08:41                 0 test1.txt
+               1 archivos              0 bytes
+               2 dirs   6,376,054,784 bytes libres
